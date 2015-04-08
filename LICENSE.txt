@@ -1,0 +1,44 @@
+This is a Derived Work based on the code and assets produced by
+kilobolt.com for the "Zombie Bird" tutorial at
+<http://www.kilobolt.com/zombie-bird-tutorial-flappy-bird-remake.html>.
+
+According to the tutorial's introductory text,
+
+    We will produce all the source code, sound effects and art assets
+    in-house at Kilobolt, and provide all of these, free of charge, to
+    you. You are free to do with it what you wish.
+
+    For those who would like to upload the game on the Play Store/App
+    Store, my one request is that you add something substantially NEW
+    to the game. Make it a better product. We don't need 10,000
+    identical games on the Play Store with identical graphics and
+    gameplay.
+
+    Also, we are not responsible if some person with poor judgment
+    plays your game, fails and decides to take out his anger on the
+    world by creating a super-virus that turns you into a zombie.
+
+My changes to this work (Ruby translation and enhancements, the maven
+project) are licensed under the MIT license, as follows:
+
+The MIT License (MIT)
+
+Copyright (c) 2015, Chris Reuter and contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
